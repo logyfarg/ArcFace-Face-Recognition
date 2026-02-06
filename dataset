@@ -1,0 +1,16 @@
+## Dataset
+
+This project uses face images for recognition. For full-scale training, we recommend the following datasets:
+
+- **VGGFace2** (large, clean dataset for face recognition):
+  [Download here](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/?utm_source=chatgpt.com)
+- **MS1M-ArcFace / MS1MV2**:
+  [InsightFace Dataset Zoo](https://github.com/deepinsight/insightface/wiki/Dataset-Zoo)
+- **CASIA-WebFace**:
+  [CASIA-WebFace](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
+
+> ⚠️ **Note:** Full datasets are too large to host on GitHub.  
+> For demonstration or testing purposes, a small subset of images (2–5 per person) is included in this repository in `datasets/face_recognition/`.
+
+### Folder Structure
+

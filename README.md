@@ -92,4 +92,4 @@ Fine-tune the model on custom datasets for specialized recognition tasks.
 
 Author
 
-Logina Mahmoud (Logy) — Aspiring Advanced AI Engineer | Portfolio-ready project demonstrating state-of-the-art face recognition using ArcFace.
+Logina Mahmoud (Logy) —  AI Engineer .
